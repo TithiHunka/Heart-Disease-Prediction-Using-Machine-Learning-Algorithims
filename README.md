@@ -57,3 +57,27 @@ Source: Dataset from : https://www.kaggle.com/
 *   Most of the people having **'YES'ExerciseAngina** having heart disease.
 *   Most of the people having **'Flat' ST_Slope.**
 *   Most of the people having  **'Flat' ST_Slope** having heart disease.
+*   
+## Observations of all 5 Algorithms:
+1) Accuracy of Logistic Regession is:90.1%
+
+2) Accuracy of Decision Tree is: 85%
+
+3) Accuracy of Random Forest is:89%
+
+4) Accuracy of Random Forest with PCA is:89%
+
+5) Accuracy of Navie Bayes is:91%
+## Conclusion:
+
+I studied in breifly about the data, its characteristics and its distribution.
+
+I explored some questions related to Heart Disease.
+
+I investigated in depth about the features which to retain and which to discard.
+
+I performed model training.
+
+I observed metrics for our prediction.
+
+This model now can help us in identifying Heart Disease on the basis of given features.
