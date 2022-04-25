@@ -39,3 +39,21 @@ Source: Dataset from : https://www.kaggle.com/
 **ST_Slope:** the slope of the peak exercise ST segment [Up: upsloping, Flat: flat, Down: downsloping]
 
 **HeartDisease:** output class [1: heart disease, 0: Normal]
+##  Observations from overall EDA:
+
+*   patients with Heart Disease count is **499(55.1%)**
+*   patients with No  Heart Disease count is **406(44.9%)**
+*   In overall male patients,there are large number of males who are having   Heart Disease
+*   In age distribution of dataset most of the people belog to **age 50-60**.
+*   Maximum heart disease patients lies between **50-60**.
+*   People **having chloestrol level around 200** are highly suffering from heart disease
+*   Most of the people having **'ASY'**Type of Cheast pain.
+*   Most of the people having **'ASY'** Type of Cheast pain having heart disease.
+*   Most of the people having **'0' Fasting_BS**
+*   Most of the people having **'0' fasting_BS** having heart disease.
+*   Most of the people having **'Normal' Resting_ECG.**
+*   Most of the people having **'Normal' Resting_ECG** having heart disease.
+*   Most of the people having **'No' ExerciseAngina.**
+*   Most of the people having **'YES'ExerciseAngina** having heart disease.
+*   Most of the people having **'Flat' ST_Slope.**
+*   Most of the people having  **'Flat' ST_Slope** having heart disease.
